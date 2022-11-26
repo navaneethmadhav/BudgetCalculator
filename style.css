@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(212, 211, 211);
+}
+.budget{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    height: 250px;
+    width: 360px;
+}
+.expense{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    height: 250px;
+    width: 360px;
+}
+.expenses{
+    border-radius: 5px;
+    height: 40px;
+}
+.budget_box{
+    border-radius: 5px;
+    height: 40px;
+}
+.balance{
+    background-color: rgb(0, 89, 255);
+    width: 740px;
+    position: relative;
+    left: -125px;
+    color: white;
+    border-radius: 15px;
+}
+.exp_m{
+    position: absolute;
+    left: 300px;
+    top: 0px;
+    text-align: center;
+    
+}
+.bal_m{
+    position: absolute;
+    left: 600px;
+    top: 0px;
+    text-align: right;
+}
+.exp_list{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    position: relative;
+    left: -120px;
+    width: 730px;
+    height: auto;
+}
+#list_amount{
+    margin-left: 80px;
+}
+.list-container{
+    margin-left: 25px;
+}
+
+.details{
+    height: 100px;
+}
+
+.clear-btn{
+    margin-left: 550px;
+    position: absolute;
+    top: 20px;
+}
