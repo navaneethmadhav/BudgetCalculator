@@ -73,6 +73,7 @@ function expenseList() {
 }
 // exp_btn.addEventListener('click',expenseList());
 
+//to clear expense list
 function clearBox(elist) {
     elist.innerHTML="";
 }
