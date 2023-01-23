@@ -1,5 +1,8 @@
 body{
     background-color: rgb(212, 211, 211);
+    background-image: url(https://media.istockphoto.com/id/483037318/photo/cut-expenses.jpg?s=612x612&w=0&k=20&c=m6BSMfm35AbEChi77J_xbKSUqC6pcEpKO65XBnHuEck=);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .budget{
     background-color: white;
@@ -24,7 +27,7 @@ body{
     height: 40px;
 }
 .balance{
-    background-color: rgb(0, 89, 255);
+    background-color: rgb(0, 0, 0);
     width: 740px;
     position: relative;
     left: -125px;
@@ -45,7 +48,8 @@ body{
     text-align: right;
 }
 .exp_list{
-    background-color: white;
+    background-color: rgb(0, 0, 0);
+    color: white;
     border-radius: 10px;
     box-shadow: 5px 5px 10px;
     position: relative;
